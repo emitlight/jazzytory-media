@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l1-01-chord-symbols",
+  "title": "코드 심볼 읽기: 3화음에서 7화음까지",
+  "durationSec": 1251.6567,
+  "version": 1,
+  "bgm": "Music: \"Backbay Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 91826222,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media"
+ },
+ {
+  "moduleId": "m-l1-02-shell-voicings",
+  "title": "셸 보이싱: 세 음으로 만드는 재즈",
+  "durationSec": 1094.4714,
+  "version": 2,
+  "bgm": "Music: \"Mining by Moonlight\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 79947698,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media"
+ },
+ {
+  "moduleId": "m-l1-03-diatonic-harmony",
+  "title": "다이어토닉 화성과 로마숫자",
+  "durationSec": 1127.6321,
+  "version": 1,
+  "bgm": "Music: \"Apero Hour\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 83185294,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media"
+ },
+ {
+  "moduleId": "m-l1-04-ii-v-i",
+  "title": "ii-V-I: 재즈의 기본 문장",
+  "durationSec": 1164.9215,
+  "version": 1,
+  "bgm": "Music: \"Samba Isobel\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 90769184,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media"
+ },
+ {
+  "moduleId": "m-l1-05-blues-form",
+  "title": "12마디 블루스: 첫 즉흥",
+  "durationSec": 1194.3065,
+  "version": 1,
+  "bgm": "Music: \"Sidewalk Shade - slower\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 83429457,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media"
+ },
+ {
+  "moduleId": "m-l1-06-swing-feel",
+  "title": "스윙 8분음표와 타임",
+  "durationSec": 1059.8863,
+  "version": 1,
+  "bgm": "Music: \"George Street Shuffle\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 75880302,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media"
+ }
+]
